@@ -5,7 +5,6 @@ import com.ridango.game.engine.HintHandler;
 import com.ridango.game.engine.Session;
 import com.ridango.game.model.Drink;
 import com.ridango.game.model.HighScore;
-import com.ridango.game.ui.InputValidator;
 import com.ridango.game.service.HighScoreService;
 import org.springframework.stereotype.Component;
 
