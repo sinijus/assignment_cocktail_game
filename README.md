@@ -1,9 +1,5 @@
 ## This is Jaanus Siniväli's cocktail_game_assignment result:
 
-## General comments
-If there wouldn't have been recommended time for the task, then I would have preferred to make API that saves game state after each input to database and communicates with front-end.
-In my mind this would have been the optimal solution when using SpringBoot and database, but I went with the console game option as it would have exceeded the recommended time limit in my case.
-
 ## Startup
 * Start the application by running the CocktailGameApplication file in Intellij IDE.
 
