@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ridango.game.GameIntegrationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-09-15T11:14:04" hostname="DESKTOP-1CO87U2" time="1.633">
+  <properties/>
+  <testcase name="testGameFlow_FailedGuess()" classname="com.ridango.game.GameIntegrationTest" time="1.604"/>
+  <testcase name="testGameFlow_SuccessfulGuess()" classname="com.ridango.game.GameIntegrationTest" time="0.02"/>
+  <system-out><![CDATA[14:14:05.893 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

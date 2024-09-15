@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ridango.game.engine.GameShutdownServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-15T11:14:05" hostname="DESKTOP-1CO87U2" time="0.391">
+  <properties/>
+  <testcase name="testShutdownApplication()" classname="com.ridango.game.engine.GameShutdownServiceTest" time="0.391"/>
+  <system-out><![CDATA[Shutting down application...
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
